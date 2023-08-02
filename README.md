@@ -7,8 +7,10 @@
 
 ![Screenshot from 2023-08-03 02-29-47](https://github.com/mir21bek/Neobis_django_girls/assets/114082528/e446fdeb-5d62-4cf3-b88c-6473433c3362)
 
-file:///home/user/Pictures/Screenshots/Screenshot%20from%202023-08-03%2002-31-24.png
+![Screenshot from 2023-08-03 02-45-39](https://github.com/mir21bek/Neobis_django_girls/assets/114082528/a7ea8a27-f3db-4228-9783-4eef7cf5d643)
 
 ![Screenshot from 2023-08-03 02-31-35](https://github.com/mir21bek/Neobis_django_girls/assets/114082528/50ddcfaa-8f48-4d01-8d0c-e0602f2189f5)
 
+
+Если пользователь не авторизован то он не сможеть изменить запись
 
