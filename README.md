@@ -14,3 +14,9 @@
 
 Если пользователь не авторизован то он не сможеть изменить запись
 
+![Screenshot from 2023-08-03 02-47-33](https://github.com/mir21bek/Neobis_django_girls/assets/114082528/564bd087-e05f-4f8b-a6bd-29757010984b)
+
+![Screenshot from 2023-08-03 02-48-22](https://github.com/mir21bek/Neobis_django_girls/assets/114082528/cc2fe001-9f29-4f71-9616-1e9323f2eac6)
+
+![image](https://github.com/mir21bek/Neobis_django_girls/assets/114082528/14b67267-797e-4025-8be5-5d4e3d18a0e3)
+
